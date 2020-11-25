@@ -1,0 +1,33 @@
+body{
+    font: 20px Arial; sans-serif;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.quem-somos {
+    background-color: rgb(1, 19, 68);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.reservas {
+    background-color: rgb(0, 22, 146);
+    color: white;
+}
+
+.instalacoes {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+.bg-footer {
+    background-color: rgb(3, 3, 3);
+    color: rgb(255, 255, 255);
+}
